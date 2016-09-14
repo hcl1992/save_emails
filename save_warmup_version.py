@@ -1,8 +1,8 @@
 """ 
 create a virtualenv email 
-downgrade python to 2.7.9 to avoid incompatable issue with anaconda and virtualenv:conda install python=2.7.9
-this file is a modification from the tutorial by Miguel as a warmup for the exercise, it does not connect to database
-but instore in memory instead
+downgrade python to 2.7.9 to avoid incompatible issue with anaconda and virtualenv: conda install python=2.7.9
+this file is a modification from the tutorial by Miguel to fit for this exercise, it does not connect to database
+but store information in memory instead, it works for small amount of information but better to use database for larger one 
 
 after running this file, open another console to do modification such as get, put, delete, update
 
