@@ -24,7 +24,9 @@ Emails saved should be executed according to the timestamp saved
 with reference to 
 
 http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+
 http://blog.miguelgrinberg.com/post/using-celery-with-flask 
+
 http://www.cucumbertown.com/craft/scheduling-morning-emails-with-django-and-celery/
  
  1. Create a RESTful API with Python and Flask
